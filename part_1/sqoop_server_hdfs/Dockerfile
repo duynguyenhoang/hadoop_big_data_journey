@@ -1,3 +1,4 @@
+FROM dvoros/hadoop:3.1.0
 
 USER root
 
